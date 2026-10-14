@@ -101,6 +101,11 @@ dve -full64 &
 A DVE environment will open.
 
 DVE Waveform Verification
+
+
+
+<img width="1916" height="981" alt="Screenshot 2026-10-14 153536" src="https://github.com/user-attachments/assets/d3b330b7-2bdf-46df-aed7-e642aa66b709" />
+
 In DVE:
 Open the testbench hierarchy.
 Locate the signals: 
