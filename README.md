@@ -1,3 +1,5 @@
+<img width="1916" height="1018" alt="Screenshot 2026-10-21 153011" src="https://github.com/user-attachments/assets/25610595-64d5-4d9b-bf87-8f928ed4b800" />
+<img width="1916" height="1018" alt="Screenshot 2026-10-21 153011" src="https://github.com/user-attachments/assets/fdc2bef2-d4bb-4cd9-b6a5-529817ea2797" />
 # EXPT 2 - Verification of Logic Gates
 ### SIMULATION AND VERIFICATION OF AND, OR, AND NOT GATES
 ## Aim
@@ -102,8 +104,7 @@ A DVE environment will open.
 DVE Waveform Verification
 
 
-
-<img width="1916" height="981" alt="Screenshot 2026-10-14 153536" src="https://github.com/user-attachments/assets/d3b330b7-2bdf-46df-aed7-e642aa66b709" />
+<img width="1916" height="1018" alt="Screenshot 2026-10-21 153011" src="https://github.com/user-attachments/assets/ea875a40-5a88-4b74-a2ba-3f9f5adf919f" />
 
 In DVE:
 Open the testbench hierarchy.
